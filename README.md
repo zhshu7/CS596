@@ -15,6 +15,10 @@ We have studied and got most of the important parameters for vitreous and drugs 
 
 ![V9`YV46GV)P24@U{)I}UDO](https://user-images.githubusercontent.com/93456391/144206647-50874187-a408-4434-bb41-a55339fe7873.png)
 
+Ultrasound imaging for vitreous
+
+![PIC1](https://user-images.githubusercontent.com/93456391/144332264-8fd5629c-bdbc-4123-b0d0-ec76a249bb57.jpg)
+
 In clinical practice, although MRI can give 3D image of the eye structure, it's high cost make it impossible for daily treatment. Ultrasound has it's strength in eazy to access and showing the liquifaction structure inside the eye. Besides, there isn't a good indicator in clinical practice that tells how long the drug is in effect.
 
 So the approach that we are planning to take is:
