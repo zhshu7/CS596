@@ -5,7 +5,7 @@ The liquefaction of vitreous humor has a significant effect on the diffusion of 
 
 ## For Presentation
 Intravitreal drug injection
-![whole eye](https://user-images.githubusercontent.com/93456391/144202513-03998c5f-e115-40a9-9b3b-bec6d0440eb7.png)
+![whole eye](https://user-images.githubusercontent.com/93456391/144202513-03998c5f-e115-40a9-9b3b-bec6d0440eb7.png | width=100)
 
 Liquification with aging
 ![41433_2008_Article_BFeye200821_Fig4_HTML](https://user-images.githubusercontent.com/93456391/143964305-a6d86037-ac46-4bcd-9f37-cae1860e3c84.jpg)
