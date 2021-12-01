@@ -21,3 +21,4 @@ So the approach that we are planning to take is:
 1. Use ultrasound images to reconstruct 3D numerical model
 2. Calculate the time period that the drug is within the effective range based on the numerical model
 3. Use the ultrasound images as input and time period as output to train the machine learning model
+4. Other factors including: age, diabetes, PVD (Posterior Vitreous Detachment)
