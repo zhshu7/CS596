@@ -1,7 +1,5 @@
 # CS596 Final Project: Machine Learning based study of drug diffusion in intravitreal drug delivery
 Proposal
-<a name="1"/>
-<a name="2"/>
 ## Abstract
 The liquefaction of vitreous humor has a significant effect on the diffusion of drug in the process of intravitreal drug delivery. Considering that the liquification geometry varies from person to person, it would be helpful if we can predict the drug diffusion process and further more give suggestion on the injection point and frequency for each individual. This requires a model for each individual, and a well trained deep learning model will significantly improve the efficiency comparing with doing meshing and numerical analysis for each specific case. So, in this model, the input will be the 2D liquefaction geometry of the vitreous detected by untrasound images of vitreous and the injection point, output will be the time interval that the drug is in effect, or in other words, the time interval that the concentration at the retina is within the expected range. For output, since there isn't a good indicator in clinical practice, we are planning to calculate the output based on numerical models for the limited number of cases and get the result based on the numerical simulation. Another option of the output is visual acuity 
 
@@ -33,8 +31,8 @@ nodal or points that are not required to be uniform in their spatial distributio
 Visual acuity and central retinal thickness (CRT) measured by optical coherence tomography are two indicators for the evaluation of intravitreal Bevacizumab, a recombinant monoclonal antibody that inhibits human vascular endothelial growth factor (VEGF) for treating VEGF-mediated diseases [[20]](#20). Clinical measurable indicators like visual acuity and CRT can help skip the part for getting ground truth with numerical model for the training
 
 ## References
-[1]:	Remington, L. A., and D. Goodwin. Clinical Anatomy of the Visual System E-Book. Amsterdam: Elsevier Health Sciences, 2011.
-[2] :	Mains, J. & Wilson, C. G., 2013. The Vitreous Humor As a Barrier to Nanoparticle Distribution, DOI: 10.1089/jop.2012.0138. J. Ocular Pharm. Therapeutics, 29(2), pp. 143-150.
+<a name="1"/>[1]:	Remington, L. A., and D. Goodwin. Clinical Anatomy of the Visual System E-Book. Amsterdam: Elsevier Health Sciences, 2011.
+<a name="2"/>[2] :	Mains, J. & Wilson, C. G., 2013. The Vitreous Humor As a Barrier to Nanoparticle Distribution, DOI: 10.1089/jop.2012.0138. J. Ocular Pharm. Therapeutics, 29(2), pp. 143-150.
 [3]:	Balazs, E. & Flood, M., 1978. Age-related changes in the physical and chemical structure of the human vitreous.. Osaka., Third International Congress of Eye Research
 [4]	Sharif-Kashani, P., Hubschman, J., Sassoon, D. & Kavehpour, H., 2011. Rheology of the vitreous gel: Effects of macromolecule organization; DOI: 10.1016/j.jbiomech.2010.10.002. Journal of Biomechanics, Volume 44, p. 419–423.
 [5]	Nickerson, C. S., Park, J., Kornfield, J. A. & Karageozian, H., 2008. Rheological properties of the vitreous and the role of hyaluronic acid. J. Biomech. , Volume 41 , p. 1840–1846.
