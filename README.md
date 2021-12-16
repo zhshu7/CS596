@@ -32,7 +32,7 @@ Visual acuity and central retinal thickness (CRT) measured by optical coherence 
 
 ## References
 <a name="1"/>
-\[1\] Remington, L. A., and D. Goodwin. Clinical Anatomy of the Visual System E-Book. Amsterdam: Elsevier Health Sciences, 2011.
+"[1]" Remington, L. A., and D. Goodwin. Clinical Anatomy of the Visual System E-Book. Amsterdam: Elsevier Health Sciences, 2011.
 
 <a name="2"/>
 [2]	Mains, J. & Wilson, C. G., 2013. The Vitreous Humor As a Barrier to Nanoparticle Distribution, DOI: 10.1089/jop.2012.0138. J. Ocular Pharm. Therapeutics, 29(2), pp. 143-150.
