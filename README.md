@@ -32,23 +32,45 @@ Visual acuity and central retinal thickness (CRT) measured by optical coherence 
 
 ## References
 
-<a name="1"/>[1] Remington, L. A., and D. Goodwin. Clinical Anatomy of the Visual System E-Book. Amsterdam: Elsevier Health Sciences, 2011.<>
+<a name="1"/>[1] Remington, L. A., and D. Goodwin. Clinical Anatomy of the Visual System E-Book. Amsterdam: Elsevier Health Sciences, 2011.
+
 <a name="2"/>[2]	Mains, J. & Wilson, C. G., 2013. The Vitreous Humor As a Barrier to Nanoparticle Distribution, DOI: 10.1089/jop.2012.0138. J. Ocular Pharm. Therapeutics, 29(2), pp. 143-150.
+
 <a name="3"/>[3] Balazs, E. & Flood, M., 1978. Age-related changes in the physical and chemical structure of the human vitreous.. Osaka., Third International Congress of Eye Research
+
 <a name="4"/>[4]	Sharif-Kashani, P., Hubschman, J., Sassoon, D. & Kavehpour, H., 2011. Rheology of the vitreous gel: Effects of macromolecule organization; DOI: 10.1016/j.jbiomech.2010.10.002. Journal of Biomechanics, Volume 44, p. 419–423.
+
 <a name="5"/>[5]	Nickerson, C. S., Park, J., Kornfield, J. A. & Karageozian, H., 2008. Rheological properties of the vitreous and the role of hyaluronic acid. J. Biomech. , Volume 41 , p. 1840–1846.
+
 <a name="6"/>[6]	Sebag, J. "Imaging vitreous." Eye 16.4 (2002): 429-439.
+
 <a name="7"/>[7]	Foos, Roberty Y., and Noel C. Wheeler. "Vitreoretinal juncture: synchysis senilis and posterior vitreous detachment." Ophthalmology 89.12 (1982): 1502-1512.
+
 <a name="8"/>[8]	Le Goff, M., Bishop, P. Adult vitreous structure and postnatal changes. Eye 22, 1214–1222 (2008). https://doi.org/10.1038/eye.2008.21
+
 <a name="9"/>[9]	Penkova, Anita N., et al. "Measurement of the Hydraulic Conductivity of the Vitreous Humor." Journal of porous media 23.2 (2020).
-<a name="10"/>[10]	Xu, J., Heys, J., Barocas, V. & Randolph, T., 2000. Permeability and diffusion in vitreous humor: implications for drug delivery.. Pharm. Res. , Volume 17, pp. 664-669.
+
+<a name="10"/>[10]	Xu, J., Heys, J., Barocas, V. & Randolph, T., 2000. Permeability and diffusion in vitreous humor: implications for drug delivery.. Pharm. Res. , Volume 17, 
+pp. 664-669.
+
 <a name="11"/>[11]	Penkova, Anita, et al. "Diffusive Transport in the Vitreous Humor: Experimental and Analytical Studies." Journal of Heat Transfer 141.5 (2019).
+
 <a name="12"/>[12]	Khoobyar, Anahid, et al. "Mathematical Model of Macromolecular Drug Transport in a Partially Liquefied Vitreous Humor." Journal of Heat Transfer (2021).
+
 <a name="13"/>[13]	Walton, Kelly A., et al. "Age-related changes in vitreous mobility as measured by video B scan ultrasound." Experimental eye research 74.2 (2002): 173-180.
-<a name="14"/>[14]	Beebe, David C., Nancy M. Holekamp, and Ying-Bo Shui. "Oxidative damage and the prevention of age-related cataracts." Ophthalmic research 44.3 (2010): 155-165.
+
+<a name="14"/>[14]	Beebe, David C., Nancy M. Holekamp, and Ying-Bo Shui. "Oxidative damage and the prevention of age-related cataracts." Ophthalmic research 44.3 (2010): 155-
+165.
+
 <a name="15"/>[15]	LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." nature 521.7553 (2015): 436-444.
+
 <a name="16"/>[16]	Schmidhuber, Jürgen. "Deep learning in neural networks: An overview." Neural networks 61 (2015): 85-117.
+
 <a name="17"/>[17]	Belytschko, Ted, Yun Yun Lu, and Lei Gu. "Element‐free Galerkin methods." International journal for numerical methods in engineering 37.2 (1994): 229-256.
+
 <a name="18"/>[18]	Buhmann, Martin D. Radial basis functions: theory and implementations. Vol. 12. Cambridge university press, 2003.
-<a name="19"/>[19]	Divo, Eduardo, and Alain J. Kassab. "An efficient localized radial basis function meshless method for fluid flow and conjugate heat transfer." (2007): 124-136.
+
+<a name="19"/>[19]	Divo, Eduardo, and Alain J. Kassab. "An efficient localized radial basis function meshless method for fluid flow and conjugate heat transfer." (2007): 124-
+136.
+
 <a name="20"/>[20]	Pai, Sivakami A., et al. "Clinical, anatomic, and electrophysiologic evaluation following intravitreal bevacizumab for macular edema in retinal vein occlusion." American journal of ophthalmology 143.4 (2007): 601-606.
